@@ -1,7 +1,7 @@
 package ru.netology.service;
 
 public class VacationService {
-    public int calculateVacations (int income, int expenses, int threshold) {
+    public int calculateVacations(int income, int expenses, int threshold) {
 
         int months = 0;
         int money = 0;
